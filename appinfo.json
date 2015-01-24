@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "arees1309@gmail.com",
+    "longName": "Typewriter Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/MyUnderwood.ttf",
+                "name": "FONT_UNDERWOOD_32",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MyUnderwood.ttf",
+                "name": "FONT_UNDERWOOD_22",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Typewriter Face",
+    "uuid": "32213349-7265-473f-9576-a1ad06fc6289",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
